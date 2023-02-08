@@ -1,1 +1,2 @@
-# Daily buy shopping cart
+## React Redux and Tailwind css starter app
+
